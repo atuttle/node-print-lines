@@ -1,0 +1,23 @@
+{
+  "name": "print-lines",
+  "version": "1.0.0",
+  "description": "A simple wrapper for the Sed syntax to print a range of lines from a file",
+  "main": "index.js",
+  "bin" : { "print-lines" : "./index.js" },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sed",
+    "unix",
+    "wrapper"
+  ],
+  "author": "Adam Tuttle <adamtuttlecodes@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "expect": "^1.15.2"
+  },
+  "dependencies": {
+    "exec": "^0.2.1"
+  }
+}
