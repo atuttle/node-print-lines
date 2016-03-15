@@ -15,7 +15,13 @@ $ print-lines 22356 file.txt
 22356
 ```
 
-# MIT License
+## Install
+
+```
+npm install -g print-lines
+```
+
+## MIT License
 
 Copyright (c) 2016 Adam Tuttle
 
