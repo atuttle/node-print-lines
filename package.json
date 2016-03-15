@@ -1,6 +1,6 @@
 {
   "name": "print-lines",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple wrapper for the Sed syntax to print a range of lines from a file",
   "main": "index.js",
   "bin": {
